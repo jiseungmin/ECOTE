@@ -1,3 +1,4 @@
+# 유튜브 모험가 문제
 data = list(map(int,input().split()))
 data.sort()
 

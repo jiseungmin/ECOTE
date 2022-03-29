@@ -1,3 +1,4 @@
+# 곱하기 혹은 더하기 문제
 data = input()
 result = int(data[0])
 

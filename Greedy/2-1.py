@@ -1,3 +1,4 @@
+#큰수의 법칙
 from posixpath import split
 n, m, k = map(int,input().split())
 

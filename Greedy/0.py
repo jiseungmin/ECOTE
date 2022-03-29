@@ -1,3 +1,4 @@
+ # 1이 될떄까지
  # 해설 보기전 내 코드
 a, b = map(int, input().split())
 cnt = 0
